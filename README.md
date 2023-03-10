@@ -16,3 +16,5 @@ Olá, esta é a página inicial do Alura plus, site fictício onde treinei class
 ### Gabriel Terry
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-terry-de-souza-cavalcante-1b910b1b7
+
+### Site do Alura+: https://alura-plus-iota-woad.vercel.app/
